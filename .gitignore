@@ -1,1 +1,6 @@
 *.ini
+.DS_Store
+.DSStore?
+.*
+.Spotlight-V100
+.Trashes
