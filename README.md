@@ -7,4 +7,4 @@ This is an archive of all currently existing images and other files in relation 
 <br> For those that wish to include Teawie in images (e.g sticking him in the background of photos), please refrain from using copyrighted images.</br>
 <br>Images modified to include Teawie, that are originally under CC0 are acceptable to be submitted to this repository.</br>
 
-<br>This repository and all images inside it, are under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0 License</a>. To give proper credit, please link back to this repository or give the github name of this user. Please see the link for creative commons or the license in the repo itself for more information :)</br>
+<br>This repository and all images inside it, are under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0 License</a>. To give proper credit, please link back to this repository or give the github name of this user along with a link to the license. Please see the link for creative commons or the license in the repo itself for more information :)</br>
